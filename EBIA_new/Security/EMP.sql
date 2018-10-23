@@ -1,0 +1,3 @@
+﻿CREATE SCHEMA [EMP]
+    AUTHORIZATION [dbo];
+
