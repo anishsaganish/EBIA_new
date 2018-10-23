@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27703.2018
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "EBIA_new", "EBIA_new\EBIA_new.sqlproj", "{0A95AA85-8DD0-4E3E-9152-6D846D064491}"
 EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "ADW", "..\EBIA_new_ADW\ADW\ADW.sqlproj", "{8A5EF71F-17DB-47E6-8AF5-D78352C91CAB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,6 +19,12 @@ Global
 		{0A95AA85-8DD0-4E3E-9152-6D846D064491}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0A95AA85-8DD0-4E3E-9152-6D846D064491}.Release|Any CPU.Build.0 = Release|Any CPU
 		{0A95AA85-8DD0-4E3E-9152-6D846D064491}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{8A5EF71F-17DB-47E6-8AF5-D78352C91CAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A5EF71F-17DB-47E6-8AF5-D78352C91CAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A5EF71F-17DB-47E6-8AF5-D78352C91CAB}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{8A5EF71F-17DB-47E6-8AF5-D78352C91CAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A5EF71F-17DB-47E6-8AF5-D78352C91CAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A5EF71F-17DB-47E6-8AF5-D78352C91CAB}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
